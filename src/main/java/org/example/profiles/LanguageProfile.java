@@ -17,8 +17,6 @@ import java.util.Map;
  *
  * <p>The profile may be created at runtime on-the-fly, or it may be loaded from a previously generated
  * text file (see OldLangProfileConverter).</p>
- *
- * @author Fabian Kessler
  */
 public interface LanguageProfile {
 
