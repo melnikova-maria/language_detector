@@ -12,8 +12,6 @@ import java.util.Map;
  * Builder for {@link LanguageProfile}.
  *
  * <p>This class does no internal synchronization.</p>
- *
- * @author Fabian Kessler
  */
 public class LanguageProfileBuilder {
 
